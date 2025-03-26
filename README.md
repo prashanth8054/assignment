@@ -88,7 +88,10 @@ const REACT_APP_BASE_URL = "http://localhost:5000";
 The issue arises because the `.env` file in the frontend may not work for all users, while it works for me.
 
 These steps should resolve the network error in the frontend. If the issue persists, feel free to contact me for further assistance.
+
+
 4. use "mongo db data" folder json files upload in mongo db application as I mentined in screen shot. And then click connect in mongo db application.
+
 Don't forget to leave a star for this project if you satisfy on this project. Thank you!
 
 
