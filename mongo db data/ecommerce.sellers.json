@@ -1,0 +1,83 @@
+[{
+  "_id": {
+    "$oid": "67dbfb7bc5906301c0b1c620"
+  },
+  "name": "prashanth",
+  "email": "prasanth.tharini@gmail.com",
+  "password": "12345",
+  "role": "Seller",
+  "shopName": "Doe Electronics"
+},
+{
+  "_id": {
+    "$oid": "67dbfb7bc5906301c0b1c621"
+  },
+  "name": "Alice Smith",
+  "email": "alice.smith@example.com",
+  "password": "hashedpassword2",
+  "role": "Seller",
+  "shopName": "Alice's Fashion Hub"
+},
+{
+  "_id": {
+    "$oid": "67dbfb7bc5906301c0b1c622"
+  },
+  "name": "Robert Johnson",
+  "email": "robert.j@example.com",
+  "password": "hashedpassword3",
+  "role": "Seller",
+  "shopName": "Johnson's Grocery Store"
+},
+{
+  "_id": {
+    "$oid": "67dbfb7bc5906301c0b1c623"
+  },
+  "name": "Emily Brown",
+  "email": "emily.b@example.com",
+  "password": "hashedpassword4",
+  "role": "Seller",
+  "shopName": "Brown's Bookstore"
+},
+{
+  "_id": {
+    "$oid": "67dbfb7bc5906301c0b1c624"
+  },
+  "name": "Michael Lee",
+  "email": "michael.lee@example.com",
+  "password": "hashedpassword5",
+  "role": "Seller",
+  "shopName": "Lee's Tech Gadgets"
+},
+{
+  "_id": {
+    "$oid": "67dc0abcf3261d9c39f64ce0"
+  },
+  "name": "prashanth kumar",
+  "email": "prasanth.tharini3@gmail.com",
+  "password": "$2b$10$ivvYcHtAWji6e/cYbvGDT.j1qKM3YOxQOz3ARAB1D.X66rjrpacAm",
+  "role": "Seller",
+  "shopName": "abc",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67dd06f30aea5c1cdea3867a"
+  },
+  "name": "prashanth",
+  "email": "prasanth.tharini2@gmail.com",
+  "password": "$2b$10$9MNWLxsl3OZreOjngmJHi.QL.gp5OXLkgtJ7al41NxBFWfISVJdN6",
+  "role": "Seller",
+  "shopName": "gau",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67e1514e4d4f7db7acffe50c"
+  },
+  "name": "meghana",
+  "email": "meghana@gmail.com",
+  "password": "$2b$10$shfmt7wRdDZWizIkKxpG7exu2p1A85rcduQMhBesgy7SWdwIno43S",
+  "role": "Seller",
+  "shopName": "meghana enterprises",
+  "__v": 0
+}]

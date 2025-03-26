@@ -1,0 +1,378 @@
+[{
+  "_id": {
+    "$oid": "67dbfa82c5906301c0b1c611"
+  },
+  "name": "prashanth",
+  "email": "prasanth.tharini@gmail..com",
+  "password": "12345",
+  "role": "Customer",
+  "cartDetails": [
+    {
+      "productName": "Smartphone",
+      "price": {
+        "mrp": 699,
+        "cost": 599,
+        "discountPercent": 14
+      },
+      "subcategory": "Electronics",
+      "productImage": "smartphone.jpg",
+      "category": "Mobiles",
+      "description": "Latest 5G smartphone with high-end features",
+      "tagline": "Experience the speed!",
+      "quantity": 1,
+      "seller": "60d9b69d8f8b8c5a5c8a1e34"
+    }
+  ],
+  "shippingData": {
+    "address": "123 Main Street",
+    "city": "New York",
+    "state": "NY",
+    "country": "USA",
+    "pinCode": 10001,
+    "phoneNo": 1234567890
+  }
+},
+{
+  "_id": {
+    "$oid": "67dbfa82c5906301c0b1c612"
+  },
+  "name": "Jane Smith",
+  "email": "janesmith@example.com",
+  "password": "hashedpassword456",
+  "role": "Customer",
+  "cartDetails": [
+    {
+      "productName": "Laptop",
+      "price": {
+        "mrp": 1200,
+        "cost": 1000,
+        "discountPercent": 16
+      },
+      "subcategory": "Computers",
+      "productImage": "laptop.jpg",
+      "category": "Laptops",
+      "description": "Powerful laptop for work and gaming",
+      "tagline": "Unleash the power!",
+      "quantity": 1,
+      "seller": "60d9b69d8f8b8c5a5c8a1e35"
+    }
+  ],
+  "shippingData": {
+    "address": "456 Elm Street",
+    "city": "San Francisco",
+    "state": "CA",
+    "country": "USA",
+    "pinCode": 94103,
+    "phoneNo": {
+      "$numberLong": "9876543210"
+    }
+  }
+},
+{
+  "_id": {
+    "$oid": "67dbfa82c5906301c0b1c613"
+  },
+  "name": "Alice Brown",
+  "email": "alicebrown@example.com",
+  "password": "hashedpassword789",
+  "role": "Customer",
+  "cartDetails": [
+    {
+      "productName": "Headphones",
+      "price": {
+        "mrp": 200,
+        "cost": 150,
+        "discountPercent": 25
+      },
+      "subcategory": "Audio",
+      "productImage": "headphones.jpg",
+      "category": "Accessories",
+      "description": "Wireless noise-canceling headphones",
+      "tagline": "Immersive sound experience",
+      "quantity": 2,
+      "seller": "60d9b69d8f8b8c5a5c8a1e36"
+    }
+  ],
+  "shippingData": {
+    "address": "789 Oak Avenue",
+    "city": "Los Angeles",
+    "state": "CA",
+    "country": "USA",
+    "pinCode": 90001,
+    "phoneNo": 1122334455
+  }
+},
+{
+  "_id": {
+    "$oid": "67dbfa82c5906301c0b1c614"
+  },
+  "name": "Bob Williams",
+  "email": "bobwilliams@example.com",
+  "password": "hashedpassword101",
+  "role": "Customer",
+  "cartDetails": [
+    {
+      "productName": "Smartwatch",
+      "price": {
+        "mrp": 250,
+        "cost": 200,
+        "discountPercent": 20
+      },
+      "subcategory": "Wearables",
+      "productImage": "smartwatch.jpg",
+      "category": "Accessories",
+      "description": "Advanced smartwatch with health tracking",
+      "tagline": "Stay fit, stay smart!",
+      "quantity": 1,
+      "seller": "60d9b69d8f8b8c5a5c8a1e37"
+    }
+  ],
+  "shippingData": {
+    "address": "321 Birch Road",
+    "city": "Chicago",
+    "state": "IL",
+    "country": "USA",
+    "pinCode": 60601,
+    "phoneNo": {
+      "$numberLong": "5566778899"
+    }
+  }
+},
+{
+  "_id": {
+    "$oid": "67dbfa82c5906301c0b1c615"
+  },
+  "name": "Emma Johnson",
+  "email": "emmajohnson@example.com",
+  "password": "hashedpassword202",
+  "role": "Customer",
+  "cartDetails": [
+    {
+      "productName": "Bluetooth Speaker",
+      "price": {
+        "mrp": 100,
+        "cost": 80,
+        "discountPercent": 20
+      },
+      "subcategory": "Audio",
+      "productImage": "speaker.jpg",
+      "category": "Accessories",
+      "description": "Portable Bluetooth speaker with deep bass",
+      "tagline": "Feel the beats!",
+      "quantity": 1,
+      "seller": "60d9b69d8f8b8c5a5c8a1e38"
+    }
+  ],
+  "shippingData": {
+    "address": "987 Maple Lane",
+    "city": "Seattle",
+    "state": "WA",
+    "country": "USA",
+    "pinCode": 98101,
+    "phoneNo": {
+      "$numberLong": "6677889900"
+    }
+  }
+},
+{
+  "_id": {
+    "$oid": "67dbfc5b792e38f605267e45"
+  },
+  "name": "prashanth kumar",
+  "email": "prasanth.tharini@gmail.com",
+  "password": "$2b$10$XvenqSsTQavmNrXx1aiF9OpN4Cly1IXLGsJBmBUpveKSzca7EXPhu",
+  "role": "Customer",
+  "cartDetails": [
+    {
+      "productName": "Smartphone - 6.5 inch Display",
+      "price": {
+        "mrp": 24999,
+        "cost": 21999,
+        "discountPercent": 12
+      },
+      "subcategory": "Smartphones",
+      "productImage": "https://m.media-amazon.com/images/I/71PqycNARKL._SX679_.jpg",
+      "category": "Electronics",
+      "description": "Feature-packed smartphone with high-resolution camera and fast charging.",
+      "tagline": "Next-gen mobile experience",
+      "quantity": 1,
+      "seller": null,
+      "_id": {
+        "$oid": "67d98af67be46c1bfeda561d"
+      }
+    }
+  ],
+  "__v": 0,
+  "shippingData": {
+    "address": "Hyderabad",
+    "city": "Hyderabad",
+    "state": "Telangana",
+    "country": "IN",
+    "pinCode": 500055,
+    "phoneNo": 7989074651
+  }
+},
+{
+  "_id": {
+    "$oid": "67e137fe29520ba6406f06f2"
+  },
+  "name": "1233",
+  "email": "abcdef@ghi",
+  "password": "$2b$10$ETPJHAcM/d52mdQ7XywkVeuKVvDaOaxiygGuKw9wBZe3bHEwDNqlu",
+  "role": "Customer",
+  "cartDetails": [
+    {
+      "productName": "Gaming Mouse",
+      "price": {
+        "mrp": 1499,
+        "cost": 999,
+        "discountPercent": 33
+      },
+      "subcategory": "Accessories",
+      "productImage": "data:image/jpeg;base64,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",
+      "category": "Electronics",
+      "description": "Ergonomic gaming mouse with customizable RGB lighting.",
+      "tagline": "Enhance your gaming experience",
+      "quantity": 4,
+      "seller": null,
+      "_id": {
+        "$oid": "67d98af67be46c1bfeda561c"
+      }
+    }
+  ],
+  "__v": 0,
+  "shippingData": {}
+},
+{
+  "_id": {
+    "$oid": "67e14fe24d4f7db7acffe264"
+  },
+  "name": "meghana",
+  "email": "meghana@gmail.com",
+  "password": "$2b$10$aO9tGUKDq2Zasm.Q8VP5UuoAYILiPXd0tYGaW6HdxQjEMSYXlx6/y",
+  "role": "Customer",
+  "cartDetails": [],
+  "__v": 0,
+  "shippingData": {
+    "address": "sree rama",
+    "city": "Hyderabad",
+    "state": "Telangana",
+    "country": "IN",
+    "pinCode": 500055,
+    "phoneNo": 1324567893
+  }
+},
+{
+  "_id": {
+    "$oid": "67e164b04d4f7db7acfffb2f"
+  },
+  "name": "Pedireddi",
+  "email": "polinaidu.sap@gmail.com",
+  "password": "$2b$10$y7xZadL66mV421CgPpHPGO6R8kf5TPW9CKjTaInuDzsHLtWAWI6La",
+  "role": "Customer",
+  "cartDetails": [],
+  "__v": 0,
+  "shippingData": {
+    "address": "Hyderabad",
+    "city": "Hyderabad",
+    "state": "Telangana",
+    "country": "IN",
+    "pinCode": 500055,
+    "phoneNo": 9666445199
+  }
+},
+{
+  "_id": {
+    "$oid": "67e166434d4f7db7acfffda5"
+  },
+  "name": "Tharun",
+  "email": "Tharunknkt94@gmail.com",
+  "password": "$2b$10$ESdl4yrxw4vPN7oWQVFV1.PAcS/d.m9HkKxXpFRFARfy.sbsgduV6",
+  "role": "Customer",
+  "cartDetails": [
+    {
+      "productName": "Yoga Mat",
+      "price": {
+        "mrp": 1499,
+        "cost": 999,
+        "discountPercent": 33
+      },
+      "subcategory": "Fitness",
+      "productImage": "data:image/jpeg;base64,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",
+      "category": "Sports & Fitness",
+      "description": "Eco-friendly and non-slip yoga mat for home workouts.",
+      "tagline": "Comfort for your practice",
+      "quantity": 1,
+      "seller": null,
+      "_id": {
+        "$oid": "67d98af67be46c1bfeda5621"
+      }
+    }
+  ],
+  "__v": 0,
+  "shippingData": {
+    "address": "IBM Towers",
+    "city": "IBM Towers",
+    "state": "Telangana",
+    "country": "India",
+    "pinCode": 500055,
+    "phoneNo": 7306256552
+  }
+},
+{
+  "_id": {
+    "$oid": "67e275ad4d4f7db7ac0000f2"
+  },
+  "name": "pabbu",
+  "email": "test1@123.com",
+  "password": "$2b$10$oAB1OF8wn0JUZd.jWOS.SuaxKJJ/GkpfkHJZ1PAIxottiBtnv1joS",
+  "role": "Customer",
+  "cartDetails": [
+    {
+      "productName": "Wireless Bluetooth Headphones",
+      "price": {
+        "mrp": 2999,
+        "cost": 1999,
+        "discountPercent": 33
+      },
+      "subcategory": "Headphones",
+      "productImage": "https://m.media-amazon.com/images/I/612FzKUOH1L._SX679_.jpg",
+      "category": "Electronics",
+      "description": "High-quality wireless Bluetooth headphones with noise cancellation.",
+      "tagline": "Experience immersive sound",
+      "quantity": 1,
+      "seller": null,
+      "_id": {
+        "$oid": "67d98af67be46c1bfeda561b"
+      }
+    }
+  ],
+  "__v": 0,
+  "shippingData": {
+    "address": "Hyderabad",
+    "city": "Hyderabad",
+    "state": "Telangana",
+    "country": "IN",
+    "pinCode": 500055,
+    "phoneNo": 7987654987
+  }
+},
+{
+  "_id": {
+    "$oid": "67e2cc14800cbcc9c89fb05d"
+  },
+  "name": "test1",
+  "email": "test1@gmail.com",
+  "password": "$2b$10$DYUzcrOgQXI8fyur8LM/KOta4YVUwf5UeyAtEv3STaZqNCxStjhMG",
+  "role": "Customer",
+  "cartDetails": [],
+  "__v": 0,
+  "shippingData": {
+    "address": "Hyderabad",
+    "city": "Hyderabad",
+    "state": "Telangana",
+    "country": "IN",
+    "pinCode": 500055,
+    "phoneNo": 3333366667
+  }
+}]

@@ -1,0 +1,505 @@
+[{
+  "_id": {
+    "$oid": "67d98af67be46c1bfeda561b"
+  },
+  "productName": "Wireless Bluetooth Headphones",
+  "price": {
+    "mrp": 2999,
+    "cost": 1999,
+    "discountPercent": 33
+  },
+  "subcategory": "Headphones",
+  "productImage": "https://m.media-amazon.com/images/I/61--03DsnSL._SX569_.jpg",
+  "category": "Electronics",
+  "description": "High-quality wireless Bluetooth headphones with noise cancellation.",
+  "tagline": "Experience immersive sound",
+  "quantity": 1,
+  "images": [
+    "https://m.media-amazon.com/images/I/710eo6S+R4L._SX569_.jpg",
+    "https://m.media-amazon.com/images/I/61AJz8OulOL._SX569_.jpg",
+    "https://m.media-amazon.com/images/I/61dv1FTwEAL._SX569_.jpg",
+    "https://m.media-amazon.com/images/I/71yBfx2y0TL._SX569_.jpg",
+    "https://m.media-amazon.com/images/I/610FhnioeBL._SX569_.jpg"
+  ],
+  "reviews": [
+    {
+      "rating": 4,
+      "comment": "quality is fine , ok\n",
+      "reviewer": {
+        "$oid": "67dbfc5b792e38f605267e45"
+      },
+      "date": {
+        "$date": "2025-03-21T14:04:51.977Z"
+      },
+      "_id": {
+        "$oid": "67dd7203d922a98fe41725e8"
+      }
+    }
+  ],
+  "seller": "65fd1c1234abcd5678ef9012",
+  "__v": 1,
+  "updatedAt": {
+    "$date": "2025-03-21T14:04:51.979Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "67d98af67be46c1bfeda561c"
+  },
+  "productName": "Gaming Mouse",
+  "price": {
+    "mrp": 1499,
+    "cost": 999,
+    "discountPercent": 33
+  },
+  "subcategory": "Accessories",
+  "productImage": "https://m.media-amazon.com/images/I/61CNGhhMe2L._SX679_.jpg",
+  "category": "Electronics",
+  "description": "Ergonomic gaming mouse with customizable RGB lighting.",
+  "tagline": "Enhance your gaming experience",
+  "quantity": 1,
+  "images": [
+    "https://m.media-amazon.com/images/I/71jMFcNQC2L._SX679_.jpg",
+    "https://m.media-amazon.com/images/I/710AjV1pkDL._SX679_.jpg",
+    "https://m.media-amazon.com/images/I/71XUTSYHQeL._SX679_.jpg",
+    "https://m.media-amazon.com/images/I/51LM3dqoJzL._SS40_.jpg"
+  ],
+  "reviews": [
+    {
+      "rating": 5,
+      "comment": "awesome",
+      "reviewer": {
+        "$oid": "67dbfc5b792e38f605267e45"
+      },
+      "date": {
+        "$date": "2025-03-21T14:05:43.378Z"
+      },
+      "_id": {
+        "$oid": "67dd7237d922a98fe4172684"
+      }
+    }
+  ],
+  "seller": "65fd1c1234abcd5678ef9013",
+  "__v": 1,
+  "updatedAt": {
+    "$date": "2025-03-21T14:05:43.379Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "67d98af67be46c1bfeda561d"
+  },
+  "productName": "Smartphone - 6.5 inch Display",
+  "price": {
+    "mrp": 24999,
+    "cost": 21999,
+    "discountPercent": 12
+  },
+  "subcategory": "Smartphones",
+  "productImage": "https://m.media-amazon.com/images/I/71PqycNARKL._SX679_.jpg",
+  "category": "Electronics",
+  "description": "Feature-packed smartphone with high-resolution camera and fast charging.",
+  "tagline": "Next-gen mobile experience",
+  "quantity": 1,
+  "images": [
+    "https://m.media-amazon.com/images/I/71RRWi89zuL._SX679_.jpg",
+    "https://m.media-amazon.com/images/I/71RRWi89zuL._SX679_.jpg",
+    "https://m.media-amazon.com/images/I/91zfwmC9zdL._SX679_.jpg",
+    "https://m.media-amazon.com/images/I/81rd5gqz3RL._SX679_.jpg",
+    "https://m.media-amazon.com/images/I/81-E4jRtRiL._SX679_.jpg"
+  ],
+  "reviews": [
+    {
+      "rating": 3,
+      "comment": "worst camera",
+      "reviewer": {
+        "$oid": "67dbfc5b792e38f605267e45"
+      },
+      "date": {
+        "$date": "2025-03-21T14:09:35.769Z"
+      },
+      "_id": {
+        "$oid": "67dd731fd922a98fe41728d6"
+      }
+    },
+    {
+      "rating": 5,
+      "comment": "dewww",
+      "reviewer": {
+        "$oid": "67e2cc14800cbcc9c89fb05d"
+      },
+      "date": {
+        "$date": "2025-03-25T15:34:46.226Z"
+      },
+      "_id": {
+        "$oid": "67e2cd16800cbcc9c89fb27c"
+      }
+    }
+  ],
+  "seller": "65fd1c1234abcd5678ef9014",
+  "__v": 2,
+  "updatedAt": {
+    "$date": "2025-03-25T15:34:46.229Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "67d98af67be46c1bfeda561e"
+  },
+  "productName": "Running Shoes",
+  "price": {
+    "mrp": 3999,
+    "cost": 2999,
+    "discountPercent": 25
+  },
+  "subcategory": "Footwear",
+  "productImage": "https://m.media-amazon.com/images/I/61BYQOF1nOL._SY695_.jpg",
+  "category": "Fashion",
+  "description": "Lightweight and comfortable running shoes for everyday wear.",
+  "tagline": "Run in comfort",
+  "quantity": 1,
+  "images": [
+    "https://m.media-amazon.com/images/I/71+K+aBq5JL._SY695_.jpg",
+    "https://m.media-amazon.com/images/I/41tpuiaUILL.jpg",
+    "https://m.media-amazon.com/images/I/716ppdgvthL._SY695_.jpg",
+    "https://m.media-amazon.com/images/I/61P+H4PU7oL._SY695_.jpg",
+    "https://m.media-amazon.com/images/I/61xYkw2ifrL._SY695_.jpg"
+  ],
+  "reviews": [
+    {
+      "rating": 3,
+      "comment": "quality is not good",
+      "reviewer": {
+        "$oid": "67dbfc5b792e38f605267e45"
+      },
+      "date": {
+        "$date": "2025-03-21T14:06:15.300Z"
+      },
+      "_id": {
+        "$oid": "67dd7257d922a98fe41726a9"
+      }
+    }
+  ],
+  "seller": "65fd1c1234abcd5678ef9015",
+  "__v": 1,
+  "updatedAt": {
+    "$date": "2025-03-21T14:06:15.302Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "67d98af67be46c1bfeda561f"
+  },
+  "productName": "Men's Leather Wallet",
+  "price": {
+    "mrp": 999,
+    "cost": 699,
+    "discountPercent": 30
+  },
+  "subcategory": "Accessories",
+  "productImage": "https://m.media-amazon.com/images/I/71MdqFZjb4L._SX569_.jpg",
+  "category": "Fashion",
+  "description": "Premium quality leather wallet with multiple compartments.",
+  "tagline": "Carry style with you",
+  "quantity": 1,
+  "images": [
+    "https://m.media-amazon.com/images/I/91uAu1g4xhL._SX569_.jpg",
+    "https://m.media-amazon.com/images/I/91ZfhSN47+L._SX569_.jpg",
+    "https://m.media-amazon.com/images/I/81ncOptsqUL._SX569_.jpg",
+    "https://m.media-amazon.com/images/I/91fnoVEAA4L._SX569_.jpg"
+  ],
+  "reviews": [
+    {
+      "rating": 5,
+      "comment": "value for money",
+      "reviewer": {
+        "$oid": "67dbfc5b792e38f605267e45"
+      },
+      "date": {
+        "$date": "2025-03-21T14:06:35.344Z"
+      },
+      "_id": {
+        "$oid": "67dd726bd922a98fe41726ce"
+      }
+    }
+  ],
+  "seller": "65fd1c1234abcd5678ef9016",
+  "__v": 1,
+  "updatedAt": {
+    "$date": "2025-03-21T14:06:35.348Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "67d98af67be46c1bfeda5620"
+  },
+  "productName": "Stainless Steel Water Bottle",
+  "price": {
+    "mrp": 799,
+    "cost": 599,
+    "discountPercent": 25
+  },
+  "subcategory": "Kitchen",
+  "productImage": "https://m.media-amazon.com/images/I/81FUsqc7q7L._AC_CR0%2C0%2C0%2C0_SX615_SY462_.jpg",
+  "category": "Home & Kitchen",
+  "description": "Durable stainless steel water bottle with temperature retention.",
+  "tagline": "Stay hydrated on the go",
+  "quantity": 1,
+  "images": [
+    "https://m.media-amazon.com/images/I/71nrPMDNYeL._AC_CR0%2C0%2C0%2C0_SX615_SY462_.jpg",
+    "https://m.media-amazon.com/images/I/81ndnodY+KL._AC_CR0%2C0%2C0%2C0_SX615_SY462_.jpg",
+    "https://m.media-amazon.com/images/I/71n6dLj8-SL._AC_CR0%2C0%2C0%2C0_SX615_SY462_.jpg",
+    "https://m.media-amazon.com/images/I/717r94rP9hL._AC_CR0%2C0%2C0%2C0_SX615_SY462_.jpg",
+    "https://m.media-amazon.com/images/I/71lEdJAl5mL._AC_CR0%2C0%2C0%2C0_SX615_SY462_.jpg"
+  ],
+  "reviews": [
+    {
+      "rating": 2,
+      "comment": "quality is not good",
+      "reviewer": {
+        "$oid": "67dbfc5b792e38f605267e45"
+      },
+      "date": {
+        "$date": "2025-03-21T14:04:28.656Z"
+      },
+      "_id": {
+        "$oid": "67dd71ecd922a98fe41725c3"
+      }
+    }
+  ],
+  "seller": "65fd1c1234abcd5678ef9017",
+  "__v": 1,
+  "updatedAt": {
+    "$date": "2025-03-21T14:04:28.659Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "67d98af67be46c1bfeda5621"
+  },
+  "productName": "Yoga Mat",
+  "price": {
+    "mrp": 1499,
+    "cost": 999,
+    "discountPercent": 33
+  },
+  "subcategory": "Fitness",
+  "productImage": "https://m.media-amazon.com/images/I/81feGML0NAL._SX679_.jpg",
+  "category": "Sports & Fitness",
+  "description": "Eco-friendly and non-slip yoga mat for home workouts.",
+  "tagline": "Comfort for your practice",
+  "quantity": 1,
+  "images": [
+    "https://m.media-amazon.com/images/I/51ONPHAoduL._SS100_.jpg",
+    "https://m.media-amazon.com/images/I/61f8uteQ8bL._SX679_.jpg",
+    "https://m.media-amazon.com/images/I/51fYjLRLlfL.jpg"
+  ],
+  "reviews": [],
+  "seller": "65fd1c1234abcd5678ef9018"
+},
+{
+  "_id": {
+    "$oid": "67d98af67be46c1bfeda5622"
+  },
+  "productName": "LED Desk Lamp",
+  "price": {
+    "mrp": 1999,
+    "cost": 1499,
+    "discountPercent": 25
+  },
+  "subcategory": "Lighting",
+  "productImage": "https://m.media-amazon.com/images/I/81FsiUBcq1L._SX466_.jpg",
+  "category": "Home & Decor",
+  "description": "Adjustable LED desk lamp with multiple brightness settings.",
+  "tagline": "Brighten your workspace",
+  "quantity": 1,
+  "images": [
+    "https://m.media-amazon.com/images/I/81zF-6tnRVL._SX569_.jpg",
+    "https://m.media-amazon.com/images/I/71DwJ3MEWUL._SX569_.jpg",
+    "https://m.media-amazon.com/images/I/71DJOq27vcL._SX569_.jpg",
+    "https://m.media-amazon.com/images/I/61GnSzgE0NL._SX569_.jpg"
+  ],
+  "reviews": [
+    {
+      "rating": 4,
+      "comment": "this product is help for students",
+      "reviewer": {
+        "$oid": "67dbfc5b792e38f605267e45"
+      },
+      "date": {
+        "$date": "2025-03-21T14:07:50.538Z"
+      },
+      "_id": {
+        "$oid": "67dd72b6d922a98fe417273d"
+      }
+    }
+  ],
+  "seller": "65fd1c1234abcd5678ef9019",
+  "__v": 1,
+  "updatedAt": {
+    "$date": "2025-03-21T14:07:50.539Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "67d98af67be46c1bfeda5623"
+  },
+  "productName": "Portable Power Bank - 10000mAh",
+  "price": {
+    "mrp": 2499,
+    "cost": 1999,
+    "discountPercent": 20
+  },
+  "subcategory": "Accessories",
+  "productImage": "https://m.media-amazon.com/images/I/518+NKyTn4L._SX679_.jpg",
+  "category": "Electronics",
+  "description": "High-capacity power bank with fast charging capability.",
+  "tagline": "Stay charged anywhere",
+  "quantity": 1,
+  "images": [
+    "https://m.media-amazon.com/images/I/61lHDm4X91L._SX679_.jpg",
+    "https://m.media-amazon.com/images/I/61KpYwu-5bL._SX679_.jpg",
+    "https://m.media-amazon.com/images/I/41FlakKgnbL._SX38_SY50_CR,0,0,38,50_.jpg",
+    "https://m.media-amazon.com/images/I/61xWcKFz1oL._SX679_.jpg"
+  ],
+  "reviews": [
+    {
+      "rating": 2,
+      "comment": "it is waste of money",
+      "reviewer": {
+        "$oid": "67dbfc5b792e38f605267e45"
+      },
+      "date": {
+        "$date": "2025-03-21T14:07:03.063Z"
+      },
+      "_id": {
+        "$oid": "67dd7287d922a98fe41726f3"
+      }
+    }
+  ],
+  "seller": "65fd1c1234abcd5678ef9020",
+  "__v": 1,
+  "updatedAt": {
+    "$date": "2025-03-21T14:07:03.065Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "67d98af67be46c1bfeda5624"
+  },
+  "productName": "Cotton Bedsheet - Double Bed",
+  "price": {
+    "mrp": 1799,
+    "cost": 1299,
+    "discountPercent": 28
+  },
+  "subcategory": "Bedding",
+  "productImage": "https://m.media-amazon.com/images/I/81lI6e-gS+L._SX679_.jpg",
+  "category": "Home & Living",
+  "description": "Soft and breathable cotton bedsheet for a comfortable sleep.",
+  "tagline": "Sleep in comfort",
+  "quantity": 1,
+  "images": [
+    "https://m.media-amazon.com/images/I/71sMkRK8t-L._SX679_.jpg",
+    "https://m.media-amazon.com/images/I/81+Re4fCTSL._SX679_.jpg",
+    "https://m.media-amazon.com/images/I/81TeCzuWCJL._SX679_.jpg",
+    "https://m.media-amazon.com/images/I/611k8Jfo7yL._SX679_.jpg"
+  ],
+  "reviews": [
+    {
+      "rating": 3,
+      "comment": "it is comfort ",
+      "reviewer": {
+        "$oid": "67dbfc5b792e38f605267e45"
+      },
+      "date": {
+        "$date": "2025-03-21T14:07:25.345Z"
+      },
+      "_id": {
+        "$oid": "67dd729dd922a98fe4172718"
+      }
+    }
+  ],
+  "seller": "65fd1c1234abcd5678ef9021",
+  "__v": 1,
+  "updatedAt": {
+    "$date": "2025-03-21T14:07:25.347Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "67dd07a40aea5c1cdea386a9"
+  },
+  "productName": "car",
+  "price": {
+    "mrp": 670,
+    "cost": 500,
+    "discountPercent": 10
+  },
+  "subcategory": "kids",
+  "productImage": "https://m.media-amazon.com/images/I/51pGit1uTFL._SX569_.jpg",
+  "category": "toys",
+  "description": "toy",
+  "tagline": "johnson toys",
+  "quantity": 1,
+  "seller": {
+    "$oid": "67dd06f30aea5c1cdea3867a"
+  },
+  "reviews": [
+    {
+      "rating": 4,
+      "comment": "nice",
+      "reviewer": {
+        "$oid": "67dbfc5b792e38f605267e45"
+      },
+      "date": {
+        "$date": "2025-03-21T14:05:17.838Z"
+      },
+      "_id": {
+        "$oid": "67dd721dd922a98fe4172641"
+      }
+    }
+  ],
+  "images": [
+    "https://m.media-amazon.com/images/I/61raYnImQaL._SX569_.jpg",
+    "https://m.media-amazon.com/images/I/61gEhhU2dtL._SX569_.jpg",
+    "https://m.media-amazon.com/images/I/612kjG6hQRL._SX569_.jpg",
+    "https://m.media-amazon.com/images/I/61DP53xTAYL._SX569_.jpg"
+  ],
+  "createdAt": {
+    "$date": "2025-03-21T06:31:00.033Z"
+  },
+  "updatedAt": {
+    "$date": "2025-03-21T14:05:17.840Z"
+  },
+  "__v": 1
+},
+{
+  "_id": {
+    "$oid": "67e151c94d4f7db7acffe51f"
+  },
+  "productName": "sofa",
+  "price": {
+    "mrp": 40000,
+    "cost": 25000,
+    "discountPercent": 15
+  },
+  "subcategory": "chair",
+  "productImage": "data:image/jpeg;base64,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",
+  "category": "furniture",
+  "description": "leather sofa",
+  "tagline": "comfortable",
+  "quantity": 1,
+  "images": [],
+  "seller": {
+    "$oid": "67e1514e4d4f7db7acffe50c"
+  },
+  "reviews": [],
+  "createdAt": {
+    "$date": "2025-03-24T12:36:25.662Z"
+  },
+  "updatedAt": {
+    "$date": "2025-03-24T12:36:25.662Z"
+  },
+  "__v": 0
+}]
